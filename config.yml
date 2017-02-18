@@ -1,0 +1,8 @@
+development:
+	store: https://beats-dev.myshopify.com
+	password: 89a9bac4a00f1763b6f660eae3d01f954
+	theme_id: "live"
+	bucket_size: 40
+	refill_rate: 2
+	
+
