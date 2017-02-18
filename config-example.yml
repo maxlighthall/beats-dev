@@ -1,7 +1,0 @@
-development:
-	store: beats-dev.myshopify.com
-	password: Wavesurge94
-	theme_id: "live"
-	bucket_size: 40
-	refill_rate: 2
-	
